@@ -1,0 +1,38 @@
+body {
+    background-color: #121212;
+
+}
+
+.Foto {
+    width: 250px;
+    border: 2px solid white;
+    border-radius: 50px;
+/* 
+ modo nao simplificado de fazer
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+
+*/
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white
+}

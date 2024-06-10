@@ -1,0 +1,48 @@
+body {
+    background-color: #121212;
+
+}
+
+.Foto {
+/* 
+ modo nao simplificado de fazer
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+
+*/
+    width: 250px;
+    border: 2px solid white;
+    border-radius: 50px;
+    
+/*
+ modo nao simplificado de fazer
+
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+*/
+    margin: 30px 0px 100px 500px;
+
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white
+}

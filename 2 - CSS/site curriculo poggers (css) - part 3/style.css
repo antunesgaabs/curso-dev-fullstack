@@ -1,0 +1,32 @@
+
+body{
+    background-image: url(Background2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.Foto{
+    width: 250px;
+}
+
+h3{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+li{
+    color:white
+}
+
